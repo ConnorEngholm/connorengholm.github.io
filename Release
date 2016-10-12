@@ -1,1 +1,9 @@
-
+Origin: Connor Engholm's Repo
+Label: Connor Engholm's Repo
+Suite: stable
+Version: 1.0
+Codename: Connor Engholm
+Architectures: iphoneos-arm
+Components: main
+Description: Connor Engholm's Repo
+MD5Sum:
